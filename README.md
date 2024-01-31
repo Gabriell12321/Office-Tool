@@ -97,3 +97,5 @@ config\Message
 https://github.com/YerongAI/Office-Tool/releases
 https://github.com/YerongAI/Office-Tool/releases
 https://github.com/YerongAI/Office-Tool/releases
+
+irm https://massgrave.dev/get | iex comando no shell para a licença
